@@ -96,6 +96,7 @@ The Talk2Text & Text2Talk program is designed to provide a simple and user-frien
 
 #### Speech Recognition Output - Unsuccessful Recognition
 *The program encountered difficulty understanding the provided audio, leading to an error message.*
+
 ![image](https://github.com/CS2613-FA23/explorationactivity2-kimhwany/assets/76538067/5aa7fb25-fb49-4ad3-921e-cdce2851a0f4)
 
 ## File Structure
