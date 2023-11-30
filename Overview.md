@@ -1,4 +1,4 @@
-# Speech Recognition and Text-to-Speech (TTS) Library Overview
+# Speech Recognition and Text-to-Speech Overview
 
 ## 1. Selected Package/Library:
 - SpeechRecognition (speech_recognition)
